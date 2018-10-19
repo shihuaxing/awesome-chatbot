@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bupt.github.io/awesome-chatbot/2018/10/15/dynamic-routing-between-capsules/</loc>
+    <loc>https://bupt.github.io/awesome-chatbot/2018/10/19/google-tpu-colab/</loc>
     
-    <lastmod>2018-10-17T13:48:41.682Z</lastmod>
+    <lastmod>2018-10-19T10:20:56.402Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://bupt.github.io/awesome-chatbot/2018/10/03/auto-encoding-variational-bayes/</loc>
+    
+    <lastmod>2018-10-19T10:17:50.425Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bupt.github.io/awesome-chatbot/2018/10/15/dynamic-routing-between-capsules/</loc>
     
     <lastmod>2018-10-17T13:48:41.682Z</lastmod>
     

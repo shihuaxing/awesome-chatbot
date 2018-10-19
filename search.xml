@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title>TPU for developers，and the FREE Colab</title>
+      <link href="/awesome-chatbot/2018/10/19/google-tpu-colab/"/>
+      <url>/awesome-chatbot/2018/10/19/google-tpu-colab/</url>
+      <content type="html"><![CDATA[<script src="/awesome-chatbot/assets/js/APlayer.min.js"> </script><h3 id="TPU-For-Developers-SLIDE"><a href="#TPU-For-Developers-SLIDE" class="headerlink" title="TPU For Developers (SLIDE)"></a>TPU For Developers (SLIDE)</h3><p>Link: <a href="https://docs.google.com/presentation/d/1iodAZkOX0YMnUwohgQqNsbEkhR0zAnO-jncK9SkJ69o/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/presentation/d/1iodAZkOX0YMnUwohgQqNsbEkhR0zAnO-jncK9SkJ69o/edit?usp=sharing</a></p><h3 id="TensorFlow-Keras-TPUs"><a href="#TensorFlow-Keras-TPUs" class="headerlink" title="TensorFlow Keras TPUs"></a>TensorFlow Keras TPUs</h3><p>Link: <a href="https://docs.google.com/presentation/d/12gKSBBg-nmpxvioLwwnZQCalv4frfxYq25ClvT1ZdqE/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/presentation/d/12gKSBBg-nmpxvioLwwnZQCalv4frfxYq25ClvT1ZdqE/edit?usp=sharing</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Slides </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tpu </tag>
+            
+            <tag> tensorflow </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>胶囊（Capsule）网络</title>
       <link href="/awesome-chatbot/2018/10/15/dynamic-routing-between-capsules/"/>
       <url>/awesome-chatbot/2018/10/15/dynamic-routing-between-capsules/</url>

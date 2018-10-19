@@ -4,6 +4,50 @@
 
     
   <url>
+    <loc>https://bupt.github.io/awesome-chatbot/awesome-chatbot/2018/10/19/google-tpu-colab/</loc>
+    <lastmod>2018-10-19T10:20:56.402Z</lastmod>
+    <data>
+        <display>
+        <title>TPU for developers，and the FREE Colab</title>
+        <pubTime>2018-10-18T16:00:00.000Z</pubTime>
+        
+        <tag>tpu</tag>
+         
+        <tag>tensorflow</tag>
+         
+         
+           
+             
+              <breadCrumb title="Slides" url="https://bupt.github.io/awesome-chatbot/awesome-chatbot/categories/Slides/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://bupt.github.io/awesome-chatbot/awesome-chatbot/2018/10/03/auto-encoding-variational-bayes/</loc>
+    <lastmod>2018-10-19T10:17:50.425Z</lastmod>
+    <data>
+        <display>
+        <title>变分自编码器及其应用</title>
+        <pubTime>2018-10-02T16:00:00.000Z</pubTime>
+        
+        <tag>note</tag>
+         
+        <tag>code</tag>
+         
+         
+           
+             
+              <breadCrumb title="VAE" url="https://bupt.github.io/awesome-chatbot/awesome-chatbot/categories/VAE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://bupt.github.io/awesome-chatbot/awesome-chatbot/2018/10/15/dynamic-routing-between-capsules/</loc>
     <lastmod>2018-10-17T13:48:41.682Z</lastmod>
     <data>
@@ -19,28 +63,6 @@
            
              
               <breadCrumb title="Classical_paper" url="https://bupt.github.io/awesome-chatbot/awesome-chatbot/categories/Classical-paper/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://bupt.github.io/awesome-chatbot/awesome-chatbot/2018/10/03/auto-encoding-variational-bayes/</loc>
-    <lastmod>2018-10-17T13:48:41.682Z</lastmod>
-    <data>
-        <display>
-        <title>变分自编码器及其应用</title>
-        <pubTime>2018-10-02T16:00:00.000Z</pubTime>
-        
-        <tag>note</tag>
-         
-        <tag>code</tag>
-         
-         
-           
-             
-              <breadCrumb title="VAE" url="https://bupt.github.io/awesome-chatbot/awesome-chatbot/categories/VAE/"/>
           
         </display>
     </data>
